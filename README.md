@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/ayman-401-advanced-javascript/lab18/pull/1)
 
 
 #### `.env` requirements
