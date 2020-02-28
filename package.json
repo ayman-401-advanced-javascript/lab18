@@ -1,0 +1,25 @@
+{
+  "name": "lab16",
+  "version": "1.0.0",
+  "description": "### Author: Qusai-Alhanaktah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayman-401-advanced-javascript/lab16.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayman-401-advanced-javascript/lab16/issues"
+  },
+  "homepage": "https://github.com/ayman-401-advanced-javascript/lab16#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "faker": "^4.1.0",
+    "path": "^0.12.7"
+  }
+}
